@@ -1,0 +1,501 @@
+delivery_id,order_id,delivery_partner,dispatch_date,delivery_date,delivery_status,delivery_city
+D001,O335,Shadowfax,2023-06-08,2023-06-10,Delivered,Kolkata
+D002,O429,Blue Dart,2024-08-08,2024-08-11,Delivered,Mumbai
+D003,O226,Ekart Logistics,2024-01-26,2024-01-28,Returned,Jaipur
+D004,O327,Shadowfax,2023-09-21,2023-09-26,Delivered,Delhi
+D005,O142,Shadowfax,2024-03-10,2024-03-14,Returned,Jaipur
+D006,O093,Blue Dart,2024-06-28,2024-07-06,Delivered,Jaipur
+D007,O066,Delhivery,2024-04-19,2024-04-22,Delivered,Lucknow
+D008,O336,Ekart Logistics,2023-09-29,2023-10-01,Delivered,Bangalore
+D009,O351,Shadowfax,2024-08-15,2024-08-20,Delivered,Mumbai
+D010,O284,Delhivery,2023-07-03,2023-07-10,Failed,Chennai
+D011,O009,Blue Dart,2024-03-04,2024-03-11,Delivered,Hyderabad
+D012,O180,Ekart Logistics,2023-07-11,2023-07-17,Delivered,Ahmedabad
+D013,O040,Delhivery,2023-09-14,2023-09-18,Delivered,Pune
+D014,O037,DTDC,2024-08-23,2024-08-27,Delivered,Kolkata
+D015,O311,Blue Dart,2023-11-20,2023-11-25,In Transit,Kolkata
+D016,O241,Blue Dart,2024-04-15,2024-04-17,Delivered,Mumbai
+D017,O149,Delhivery,2024-03-30,2024-04-01,Delivered,Hyderabad
+D018,O414,Blue Dart,2024-02-18,2024-02-25,Delivered,Ahmedabad
+D019,O402,Shadowfax,2024-05-31,2024-06-04,Returned,Pune
+D020,O426,Shadowfax,2023-06-18,2023-06-25,Delivered,Pune
+D021,O391,Ekart Logistics,2023-07-11,2023-07-14,Delivered,Lucknow
+D022,O323,Shadowfax,2024-06-11,2024-06-16,Delivered,Delhi
+D023,O434,Shadowfax,2024-07-14,2024-07-16,Delivered,Ahmedabad
+D024,O267,DTDC,2023-11-11,2023-11-15,Delivered,Lucknow
+D025,O151,Delhivery,2023-11-17,2023-11-20,Delivered,Kolkata
+D026,O119,DTDC,2023-11-10,2023-11-17,Failed,Hyderabad
+D027,O228,DTDC,2023-12-04,2023-12-06,Delivered,Ahmedabad
+D028,O040,Blue Dart,2024-05-01,2024-05-06,Delivered,Jaipur
+D029,O403,DTDC,2023-09-27,2023-10-03,In Transit,Bangalore
+D030,O474,Shadowfax,2023-10-05,2023-10-13,Returned,Lucknow
+D031,O341,Delhivery,2024-04-07,2024-04-11,Delivered,Kolkata
+D032,O161,Ekart Logistics,2023-07-13,2023-07-18,Delivered,Bangalore
+D033,O295,DTDC,2024-04-20,2024-04-28,Delivered,Bangalore
+D034,O449,DTDC,2023-06-09,2023-06-12,Delivered,Chennai
+D035,O392,Shadowfax,2024-05-31,2024-06-05,Delivered,Bangalore
+D036,O446,Ekart Logistics,2024-08-01,2024-08-06,Delivered,Bangalore
+D037,O038,Delhivery,2024-02-20,2024-02-28,Delivered,Pune
+D038,O463,DTDC,2023-11-30,2023-12-03,Delivered,Ahmedabad
+D039,O124,Blue Dart,2023-08-01,2023-08-05,In Transit,Kolkata
+D040,O303,Shadowfax,2024-04-12,2024-04-14,Failed,Mumbai
+D041,O038,Blue Dart,2024-01-17,2024-01-22,Delivered,Pune
+D042,O149,DTDC,2024-05-25,2024-05-28,Delivered,Lucknow
+D043,O470,Shadowfax,2023-07-14,2023-07-17,In Transit,Lucknow
+D044,O304,Blue Dart,2024-05-12,2024-05-19,Delivered,Kolkata
+D045,O225,Delhivery,2024-02-17,2024-02-24,Delivered,Delhi
+D046,O119,Blue Dart,2024-02-09,2024-02-13,Delivered,Ahmedabad
+D047,O460,Shadowfax,2024-03-24,2024-03-30,In Transit,Pune
+D048,O147,Blue Dart,2023-12-15,2023-12-19,Delivered,Bangalore
+D049,O022,Delhivery,2024-01-08,2024-01-14,Delivered,Lucknow
+D050,O161,Ekart Logistics,2023-11-26,2023-11-30,Delivered,Chennai
+D051,O141,DTDC,2024-01-12,2024-01-15,In Transit,Chennai
+D052,O481,Blue Dart,2024-04-07,2024-04-15,Delivered,Hyderabad
+D053,O342,Blue Dart,2023-08-13,2023-08-15,Delivered,Ahmedabad
+D054,O387,Delhivery,2023-06-16,2023-06-22,Returned,Ahmedabad
+D055,O276,Delhivery,2023-06-05,2023-06-10,In Transit,Mumbai
+D056,O190,Delhivery,2023-10-24,2023-10-30,Delivered,Jaipur
+D057,O267,Delhivery,2024-07-31,2024-08-05,Delivered,Delhi
+D058,O367,Ekart Logistics,2024-01-15,2024-01-20,Delivered,Delhi
+D059,O443,Delhivery,2023-10-22,2023-10-29,Delivered,Kolkata
+D060,O412,Ekart Logistics,2024-06-17,2024-06-25,Delivered,Delhi
+D061,O168,Delhivery,2024-02-16,2024-02-20,Delivered,Ahmedabad
+D062,O345,Ekart Logistics,2024-05-28,2024-06-04,Delivered,Mumbai
+D063,O222,Ekart Logistics,2024-05-28,2024-06-05,Delivered,Hyderabad
+D064,O431,Shadowfax,2024-05-05,2024-05-13,In Transit,Mumbai
+D065,O486,Ekart Logistics,2023-10-05,2023-10-08,Delivered,Hyderabad
+D066,O345,Delhivery,2023-10-15,2023-10-20,Delivered,Bangalore
+D067,O376,DTDC,2023-10-24,2023-10-27,Delivered,Delhi
+D068,O487,Shadowfax,2024-08-13,2024-08-20,Delivered,Mumbai
+D069,O223,Ekart Logistics,2024-02-08,2024-02-14,Delivered,Bangalore
+D070,O020,DTDC,2024-05-19,2024-05-23,Delivered,Lucknow
+D071,O121,Blue Dart,2024-02-04,2024-02-10,Delivered,Bangalore
+D072,O450,Blue Dart,2024-08-05,2024-08-08,In Transit,Jaipur
+D073,O251,DTDC,2024-04-03,2024-04-07,Delivered,Chennai
+D074,O050,Delhivery,2023-07-29,2023-08-06,Delivered,Pune
+D075,O497,DTDC,2023-11-15,2023-11-18,Delivered,Delhi
+D076,O091,DTDC,2023-11-12,2023-11-19,Delivered,Pune
+D077,O361,Delhivery,2024-07-02,2024-07-07,In Transit,Jaipur
+D078,O308,DTDC,2024-05-18,2024-05-21,Delivered,Chennai
+D079,O260,Delhivery,2024-08-10,2024-08-18,Delivered,Ahmedabad
+D080,O396,Blue Dart,2023-10-13,2023-10-20,Delivered,Pune
+D081,O415,DTDC,2024-01-05,2024-01-10,Delivered,Mumbai
+D082,O138,DTDC,2024-06-08,2024-06-11,Delivered,Mumbai
+D083,O158,DTDC,2023-12-28,2023-12-31,Delivered,Bangalore
+D084,O275,Delhivery,2024-07-05,2024-07-12,Delivered,Lucknow
+D085,O313,Blue Dart,2023-08-07,2023-08-13,Delivered,Mumbai
+D086,O411,DTDC,2023-07-18,2023-07-26,Delivered,Kolkata
+D087,O393,Shadowfax,2023-07-04,2023-07-11,Delivered,Hyderabad
+D088,O186,Shadowfax,2023-09-11,2023-09-14,In Transit,Pune
+D089,O441,Delhivery,2023-10-28,2023-11-05,Delivered,Kolkata
+D090,O170,DTDC,2023-09-20,2023-09-26,Delivered,Mumbai
+D091,O019,Ekart Logistics,2024-06-22,2024-06-28,Delivered,Pune
+D092,O406,DTDC,2023-06-23,2023-06-26,Delivered,Mumbai
+D093,O118,Delhivery,2023-06-19,2023-06-23,Delivered,Pune
+D094,O336,DTDC,2023-08-08,2023-08-16,Delivered,Chennai
+D095,O442,Ekart Logistics,2023-07-11,2023-07-13,Delivered,Pune
+D096,O011,Ekart Logistics,2024-06-16,2024-06-24,Delivered,Bangalore
+D097,O049,Shadowfax,2024-07-11,2024-07-16,Delivered,Lucknow
+D098,O440,Blue Dart,2024-07-07,2024-07-11,Delivered,Mumbai
+D099,O155,Blue Dart,2024-01-22,2024-01-25,Delivered,Lucknow
+D100,O242,DTDC,2023-10-29,2023-11-03,Delivered,Pune
+D101,O288,Blue Dart,2024-02-04,2024-02-08,Returned,Ahmedabad
+D102,O260,Delhivery,2023-12-14,2023-12-16,Failed,Pune
+D103,O488,Blue Dart,2024-06-26,2024-07-02,Delivered,Jaipur
+D104,O115,Shadowfax,2023-06-14,2023-06-19,Delivered,Jaipur
+D105,O190,DTDC,2024-03-16,2024-03-18,Delivered,Kolkata
+D106,O074,Ekart Logistics,2023-07-20,2023-07-26,Delivered,Jaipur
+D107,O304,Delhivery,2023-07-14,2023-07-17,Delivered,Jaipur
+D108,O268,Shadowfax,2024-06-25,2024-06-28,Delivered,Jaipur
+D109,O130,DTDC,2023-11-08,2023-11-15,Delivered,Bangalore
+D110,O019,Blue Dart,2024-05-19,2024-05-25,Delivered,Mumbai
+D111,O138,Delhivery,2024-06-22,2024-06-28,Delivered,Ahmedabad
+D112,O256,Blue Dart,2024-04-30,2024-05-03,Delivered,Jaipur
+D113,O264,Shadowfax,2024-08-14,2024-08-21,Failed,Delhi
+D114,O472,Ekart Logistics,2024-01-05,2024-01-12,Delivered,Bangalore
+D115,O388,Ekart Logistics,2023-08-23,2023-08-29,Delivered,Bangalore
+D116,O102,DTDC,2024-08-20,2024-08-22,Delivered,Pune
+D117,O254,Delhivery,2024-04-17,2024-04-25,Delivered,Bangalore
+D118,O384,Shadowfax,2024-01-02,2024-01-07,Delivered,Delhi
+D119,O223,Blue Dart,2024-06-04,2024-06-11,Delivered,Kolkata
+D120,O315,Blue Dart,2024-03-16,2024-03-23,Delivered,Chennai
+D121,O268,Delhivery,2024-07-17,2024-07-23,Returned,Kolkata
+D122,O266,Shadowfax,2023-10-08,2023-10-13,Delivered,Kolkata
+D123,O475,Delhivery,2023-08-25,2023-08-31,Delivered,Jaipur
+D124,O006,Blue Dart,2024-01-01,2024-01-04,Delivered,Delhi
+D125,O003,Blue Dart,2024-05-26,2024-05-29,Delivered,Delhi
+D126,O276,DTDC,2023-11-18,2023-11-20,Delivered,Jaipur
+D127,O305,Delhivery,2023-07-06,2023-07-10,Delivered,Hyderabad
+D128,O177,Ekart Logistics,2023-09-08,2023-09-12,Delivered,Pune
+D129,O300,Blue Dart,2023-12-07,2023-12-13,Delivered,Chennai
+D130,O288,Shadowfax,2024-04-25,2024-05-02,Delivered,Lucknow
+D131,O079,Ekart Logistics,2024-06-10,2024-06-13,Delivered,Chennai
+D132,O289,Ekart Logistics,2023-08-05,2023-08-13,Delivered,Pune
+D133,O170,Shadowfax,2024-07-01,2024-07-09,Delivered,Chennai
+D134,O495,Shadowfax,2024-05-09,2024-05-14,Delivered,Mumbai
+D135,O402,Delhivery,2023-09-20,2023-09-22,Returned,Lucknow
+D136,O076,Delhivery,2023-08-25,2023-08-30,In Transit,Kolkata
+D137,O040,Ekart Logistics,2023-08-11,2023-08-17,In Transit,Pune
+D138,O341,DTDC,2023-11-16,2023-11-20,Delivered,Delhi
+D139,O124,Shadowfax,2023-12-20,2023-12-25,Delivered,Jaipur
+D140,O182,Blue Dart,2024-08-04,2024-08-10,Delivered,Delhi
+D141,O453,Shadowfax,2024-08-06,2024-08-09,Returned,Chennai
+D142,O365,Delhivery,2024-08-05,2024-08-10,Delivered,Jaipur
+D143,O356,Blue Dart,2024-05-17,2024-05-19,Delivered,Pune
+D144,O334,Blue Dart,2023-09-01,2023-09-03,In Transit,Jaipur
+D145,O395,Blue Dart,2024-06-08,2024-06-13,Delivered,Ahmedabad
+D146,O449,Delhivery,2023-12-14,2023-12-18,Delivered,Mumbai
+D147,O101,DTDC,2023-12-03,2023-12-09,Delivered,Lucknow
+D148,O159,Blue Dart,2023-07-20,2023-07-24,Returned,Ahmedabad
+D149,O472,Ekart Logistics,2024-04-07,2024-04-11,Delivered,Chennai
+D150,O329,DTDC,2023-12-22,2023-12-24,Failed,Chennai
+D151,O141,Ekart Logistics,2024-03-20,2024-03-28,Delivered,Jaipur
+D152,O312,DTDC,2024-02-08,2024-02-11,Delivered,Ahmedabad
+D153,O414,Ekart Logistics,2023-06-21,2023-06-25,Delivered,Bangalore
+D154,O362,Delhivery,2024-08-20,2024-08-28,Delivered,Pune
+D155,O428,Ekart Logistics,2023-06-30,2023-07-05,Delivered,Mumbai
+D156,O161,Ekart Logistics,2024-08-14,2024-08-20,Delivered,Hyderabad
+D157,O336,Shadowfax,2024-06-13,2024-06-15,Delivered,Kolkata
+D158,O460,Delhivery,2024-03-28,2024-04-04,Returned,Ahmedabad
+D159,O008,DTDC,2024-01-01,2024-01-09,Delivered,Mumbai
+D160,O034,Delhivery,2024-07-28,2024-08-05,Delivered,Chennai
+D161,O043,Delhivery,2024-01-15,2024-01-17,Delivered,Hyderabad
+D162,O353,Shadowfax,2023-12-28,2023-12-31,Delivered,Mumbai
+D163,O160,Blue Dart,2024-03-15,2024-03-19,Delivered,Jaipur
+D164,O291,Ekart Logistics,2024-03-17,2024-03-22,Delivered,Delhi
+D165,O094,Ekart Logistics,2023-09-05,2023-09-09,Delivered,Mumbai
+D166,O393,Delhivery,2024-07-09,2024-07-11,Delivered,Kolkata
+D167,O236,Ekart Logistics,2024-08-24,2024-08-31,Returned,Chennai
+D168,O429,Delhivery,2024-06-18,2024-06-26,Delivered,Chennai
+D169,O028,DTDC,2024-05-28,2024-06-01,Delivered,Bangalore
+D170,O290,Blue Dart,2023-12-30,2024-01-02,In Transit,Chennai
+D171,O453,Delhivery,2023-08-31,2023-09-04,Delivered,Jaipur
+D172,O136,Ekart Logistics,2024-02-07,2024-02-11,Delivered,Kolkata
+D173,O396,Shadowfax,2024-01-18,2024-01-26,Delivered,Bangalore
+D174,O019,Shadowfax,2023-12-16,2023-12-19,Delivered,Hyderabad
+D175,O360,DTDC,2023-11-26,2023-12-03,In Transit,Chennai
+D176,O107,Blue Dart,2024-05-25,2024-05-31,Delivered,Chennai
+D177,O047,Shadowfax,2024-07-01,2024-07-04,Delivered,Jaipur
+D178,O134,Ekart Logistics,2023-07-31,2023-08-06,Delivered,Bangalore
+D179,O244,Delhivery,2024-01-27,2024-02-02,Delivered,Lucknow
+D180,O194,Shadowfax,2023-06-19,2023-06-23,Delivered,Kolkata
+D181,O446,Ekart Logistics,2023-08-22,2023-08-27,Delivered,Kolkata
+D182,O332,Ekart Logistics,2023-09-05,2023-09-09,Delivered,Jaipur
+D183,O280,Delhivery,2024-06-21,2024-06-23,Delivered,Lucknow
+D184,O234,Shadowfax,2024-03-22,2024-03-29,Delivered,Pune
+D185,O243,Delhivery,2023-10-09,2023-10-16,Delivered,Kolkata
+D186,O248,DTDC,2023-11-02,2023-11-04,Failed,Hyderabad
+D187,O391,Shadowfax,2023-07-27,2023-08-01,Delivered,Chennai
+D188,O489,Shadowfax,2023-12-24,2023-12-30,Delivered,Ahmedabad
+D189,O086,Blue Dart,2024-04-02,2024-04-09,Returned,Hyderabad
+D190,O488,Shadowfax,2024-06-20,2024-06-23,Delivered,Kolkata
+D191,O404,Ekart Logistics,2023-07-18,2023-07-22,Delivered,Bangalore
+D192,O411,Blue Dart,2024-01-22,2024-01-27,Delivered,Mumbai
+D193,O338,Delhivery,2023-09-12,2023-09-15,Delivered,Delhi
+D194,O095,Delhivery,2024-08-14,2024-08-17,Delivered,Hyderabad
+D195,O079,Shadowfax,2024-08-07,2024-08-15,Delivered,Jaipur
+D196,O082,Blue Dart,2023-07-23,2023-07-28,Delivered,Pune
+D197,O358,Delhivery,2024-01-29,2024-02-05,Delivered,Jaipur
+D198,O362,Delhivery,2024-06-26,2024-06-28,Delivered,Kolkata
+D199,O391,Delhivery,2023-12-23,2023-12-31,Delivered,Chennai
+D200,O420,DTDC,2024-04-02,2024-04-07,Delivered,Kolkata
+D201,O251,Shadowfax,2023-06-15,2023-06-18,In Transit,Bangalore
+D202,O394,Delhivery,2023-12-07,2023-12-11,Delivered,Mumbai
+D203,O313,Shadowfax,2024-06-20,2024-06-25,Returned,Hyderabad
+D204,O071,DTDC,2023-09-06,2023-09-08,Delivered,Pune
+D205,O048,Blue Dart,2023-12-15,2023-12-22,Delivered,Bangalore
+D206,O146,Blue Dart,2023-12-17,2023-12-24,In Transit,Mumbai
+D207,O134,DTDC,2023-09-01,2023-09-04,Delivered,Ahmedabad
+D208,O428,Ekart Logistics,2024-01-26,2024-02-03,Delivered,Delhi
+D209,O336,DTDC,2024-07-17,2024-07-25,Delivered,Kolkata
+D210,O066,Shadowfax,2024-02-16,2024-02-21,Delivered,Mumbai
+D211,O249,DTDC,2024-01-04,2024-01-12,Delivered,Pune
+D212,O133,Ekart Logistics,2024-04-06,2024-04-14,In Transit,Jaipur
+D213,O258,Blue Dart,2024-07-05,2024-07-10,Delivered,Ahmedabad
+D214,O498,Blue Dart,2023-07-29,2023-08-06,Delivered,Pune
+D215,O273,DTDC,2024-08-20,2024-08-27,Delivered,Mumbai
+D216,O173,Shadowfax,2023-10-12,2023-10-15,Delivered,Lucknow
+D217,O373,DTDC,2024-01-10,2024-01-12,Delivered,Mumbai
+D218,O063,DTDC,2024-01-23,2024-01-27,Delivered,Lucknow
+D219,O352,Blue Dart,2023-10-09,2023-10-14,Delivered,Chennai
+D220,O393,Ekart Logistics,2024-03-05,2024-03-09,Delivered,Kolkata
+D221,O214,Ekart Logistics,2024-01-16,2024-01-20,Delivered,Mumbai
+D222,O306,Ekart Logistics,2023-12-01,2023-12-08,Delivered,Pune
+D223,O128,Delhivery,2023-07-15,2023-07-21,Delivered,Bangalore
+D224,O325,DTDC,2024-01-08,2024-01-12,Delivered,Jaipur
+D225,O353,Shadowfax,2023-10-04,2023-10-12,Returned,Ahmedabad
+D226,O292,DTDC,2023-06-22,2023-06-24,Delivered,Mumbai
+D227,O076,Shadowfax,2024-06-06,2024-06-13,In Transit,Delhi
+D228,O196,Shadowfax,2024-06-07,2024-06-09,Delivered,Chennai
+D229,O217,DTDC,2023-06-13,2023-06-16,Returned,Chennai
+D230,O370,Ekart Logistics,2024-08-03,2024-08-08,Returned,Hyderabad
+D231,O293,Blue Dart,2023-11-04,2023-11-10,Delivered,Hyderabad
+D232,O356,Ekart Logistics,2023-12-10,2023-12-16,Delivered,Pune
+D233,O141,Delhivery,2023-10-21,2023-10-27,Delivered,Lucknow
+D234,O205,Delhivery,2024-05-14,2024-05-18,Delivered,Pune
+D235,O107,Ekart Logistics,2024-07-06,2024-07-11,Delivered,Chennai
+D236,O137,DTDC,2024-04-03,2024-04-11,Failed,Kolkata
+D237,O050,Delhivery,2023-09-25,2023-09-27,Delivered,Hyderabad
+D238,O033,Shadowfax,2023-10-27,2023-11-03,Delivered,Jaipur
+D239,O302,DTDC,2024-04-22,2024-04-28,Delivered,Pune
+D240,O244,Shadowfax,2023-06-08,2023-06-12,Delivered,Kolkata
+D241,O422,DTDC,2023-08-18,2023-08-23,In Transit,Jaipur
+D242,O108,Shadowfax,2024-05-24,2024-05-27,Delivered,Chennai
+D243,O207,Ekart Logistics,2024-05-05,2024-05-13,Delivered,Delhi
+D244,O324,DTDC,2024-03-15,2024-03-19,Delivered,Ahmedabad
+D245,O190,Blue Dart,2023-10-29,2023-11-06,Delivered,Jaipur
+D246,O016,Delhivery,2024-04-16,2024-04-22,Delivered,Kolkata
+D247,O290,DTDC,2023-12-31,2024-01-08,Delivered,Chennai
+D248,O285,DTDC,2023-09-30,2023-10-05,Returned,Bangalore
+D249,O194,Shadowfax,2024-08-10,2024-08-12,Delivered,Hyderabad
+D250,O109,Ekart Logistics,2024-03-20,2024-03-24,Delivered,Bangalore
+D251,O393,DTDC,2024-03-09,2024-03-14,Delivered,Hyderabad
+D252,O215,Shadowfax,2023-10-22,2023-10-26,Delivered,Delhi
+D253,O341,Blue Dart,2024-02-14,2024-02-20,Delivered,Hyderabad
+D254,O440,DTDC,2024-02-10,2024-02-18,Delivered,Jaipur
+D255,O081,Delhivery,2023-12-23,2023-12-27,Delivered,Kolkata
+D256,O391,DTDC,2024-05-02,2024-05-05,Delivered,Delhi
+D257,O197,Shadowfax,2024-05-01,2024-05-06,Failed,Pune
+D258,O097,Ekart Logistics,2024-04-13,2024-04-16,Delivered,Lucknow
+D259,O258,Ekart Logistics,2024-04-03,2024-04-09,Delivered,Mumbai
+D260,O167,Shadowfax,2023-10-07,2023-10-10,Delivered,Jaipur
+D261,O351,Ekart Logistics,2023-12-08,2023-12-10,Delivered,Pune
+D262,O283,Shadowfax,2024-08-17,2024-08-20,In Transit,Bangalore
+D263,O235,Blue Dart,2024-06-06,2024-06-14,Delivered,Jaipur
+D264,O480,Delhivery,2023-11-14,2023-11-17,Delivered,Mumbai
+D265,O106,Shadowfax,2024-01-24,2024-01-29,Delivered,Lucknow
+D266,O228,Delhivery,2024-07-13,2024-07-16,Failed,Ahmedabad
+D267,O329,Ekart Logistics,2024-07-17,2024-07-23,In Transit,Bangalore
+D268,O126,DTDC,2024-06-05,2024-06-07,Delivered,Mumbai
+D269,O350,DTDC,2024-08-18,2024-08-24,Failed,Pune
+D270,O037,DTDC,2023-10-13,2023-10-20,Delivered,Lucknow
+D271,O332,Shadowfax,2024-06-01,2024-06-03,Delivered,Mumbai
+D272,O150,DTDC,2024-07-30,2024-08-07,Delivered,Mumbai
+D273,O187,DTDC,2024-06-02,2024-06-08,Delivered,Jaipur
+D274,O220,Ekart Logistics,2023-07-25,2023-07-28,In Transit,Lucknow
+D275,O386,Ekart Logistics,2024-06-05,2024-06-08,Delivered,Kolkata
+D276,O073,Delhivery,2024-07-13,2024-07-18,Delivered,Delhi
+D277,O169,Ekart Logistics,2024-01-22,2024-01-29,Delivered,Hyderabad
+D278,O388,Blue Dart,2023-11-24,2023-11-28,Delivered,Kolkata
+D279,O404,DTDC,2024-05-25,2024-05-29,Delivered,Lucknow
+D280,O019,Delhivery,2023-08-16,2023-08-22,Delivered,Hyderabad
+D281,O451,Blue Dart,2024-03-16,2024-03-20,Delivered,Chennai
+D282,O484,Delhivery,2024-03-18,2024-03-25,Delivered,Jaipur
+D283,O345,Blue Dart,2023-08-20,2023-08-27,In Transit,Bangalore
+D284,O076,Shadowfax,2023-10-29,2023-11-06,Delivered,Hyderabad
+D285,O015,Delhivery,2024-03-26,2024-03-30,Delivered,Mumbai
+D286,O133,Blue Dart,2024-06-05,2024-06-11,Delivered,Ahmedabad
+D287,O208,DTDC,2024-04-13,2024-04-16,Failed,Bangalore
+D288,O301,Shadowfax,2023-11-09,2023-11-15,Delivered,Jaipur
+D289,O332,Delhivery,2024-08-20,2024-08-26,Delivered,Jaipur
+D290,O460,DTDC,2023-06-09,2023-06-16,Returned,Kolkata
+D291,O116,Blue Dart,2023-09-15,2023-09-18,Delivered,Lucknow
+D292,O399,Ekart Logistics,2024-04-29,2024-05-02,Delivered,Jaipur
+D293,O292,Ekart Logistics,2024-08-05,2024-08-12,In Transit,Ahmedabad
+D294,O460,Delhivery,2024-06-15,2024-06-18,Delivered,Mumbai
+D295,O205,Ekart Logistics,2023-11-17,2023-11-23,Delivered,Ahmedabad
+D296,O493,Shadowfax,2024-08-08,2024-08-15,Delivered,Delhi
+D297,O497,Ekart Logistics,2024-01-16,2024-01-22,Delivered,Hyderabad
+D298,O132,Delhivery,2024-05-20,2024-05-27,In Transit,Hyderabad
+D299,O354,DTDC,2023-08-31,2023-09-02,Failed,Chennai
+D300,O283,Blue Dart,2023-07-18,2023-07-25,Delivered,Delhi
+D301,O464,Delhivery,2024-02-24,2024-02-28,Delivered,Hyderabad
+D302,O125,Shadowfax,2024-06-25,2024-07-01,Delivered,Delhi
+D303,O275,Ekart Logistics,2023-11-12,2023-11-20,Delivered,Hyderabad
+D304,O245,Ekart Logistics,2024-01-14,2024-01-16,Delivered,Delhi
+D305,O278,Shadowfax,2023-09-20,2023-09-26,Delivered,Lucknow
+D306,O005,Shadowfax,2024-01-08,2024-01-16,Returned,Jaipur
+D307,O399,Delhivery,2024-03-29,2024-04-06,Delivered,Jaipur
+D308,O001,Blue Dart,2024-06-22,2024-06-27,Delivered,Jaipur
+D309,O324,Delhivery,2023-11-17,2023-11-23,Delivered,Chennai
+D310,O488,Blue Dart,2023-10-15,2023-10-23,Delivered,Kolkata
+D311,O141,Shadowfax,2024-02-14,2024-02-18,Delivered,Delhi
+D312,O388,Delhivery,2024-02-06,2024-02-08,Delivered,Ahmedabad
+D313,O241,DTDC,2023-08-24,2023-08-27,Delivered,Pune
+D314,O345,Blue Dart,2023-07-20,2023-07-28,Delivered,Ahmedabad
+D315,O422,Delhivery,2023-09-09,2023-09-17,Delivered,Hyderabad
+D316,O110,Blue Dart,2024-02-13,2024-02-17,Delivered,Ahmedabad
+D317,O242,Ekart Logistics,2024-05-17,2024-05-21,Returned,Hyderabad
+D318,O293,Delhivery,2023-11-14,2023-11-17,Delivered,Pune
+D319,O403,Delhivery,2024-08-11,2024-08-14,Delivered,Bangalore
+D320,O167,Shadowfax,2024-01-30,2024-02-06,Delivered,Pune
+D321,O400,Blue Dart,2023-09-27,2023-10-01,Delivered,Chennai
+D322,O190,Delhivery,2023-11-05,2023-11-09,Delivered,Kolkata
+D323,O231,Blue Dart,2024-01-05,2024-01-11,Delivered,Pune
+D324,O003,DTDC,2023-06-30,2023-07-05,Delivered,Bangalore
+D325,O500,DTDC,2024-06-28,2024-07-02,Delivered,Hyderabad
+D326,O107,Blue Dart,2023-10-30,2023-11-07,Delivered,Kolkata
+D327,O219,DTDC,2023-11-15,2023-11-21,Delivered,Hyderabad
+D328,O409,Delhivery,2024-04-13,2024-04-19,Delivered,Chennai
+D329,O055,Ekart Logistics,2023-10-04,2023-10-07,Delivered,Jaipur
+D330,O483,Shadowfax,2024-01-28,2024-01-30,Delivered,Pune
+D331,O353,DTDC,2023-10-07,2023-10-11,Failed,Lucknow
+D332,O193,Ekart Logistics,2023-07-23,2023-07-25,Delivered,Chennai
+D333,O276,Blue Dart,2024-01-12,2024-01-16,Delivered,Bangalore
+D334,O451,Ekart Logistics,2023-11-15,2023-11-23,Delivered,Bangalore
+D335,O448,Delhivery,2024-03-29,2024-04-02,Delivered,Ahmedabad
+D336,O046,DTDC,2023-10-05,2023-10-09,Delivered,Chennai
+D337,O286,Shadowfax,2024-07-24,2024-07-28,Delivered,Bangalore
+D338,O396,Ekart Logistics,2024-08-20,2024-08-28,Delivered,Kolkata
+D339,O491,Blue Dart,2024-07-01,2024-07-06,Delivered,Hyderabad
+D340,O095,Blue Dart,2024-01-27,2024-01-30,Delivered,Kolkata
+D341,O102,Blue Dart,2023-10-10,2023-10-16,Delivered,Mumbai
+D342,O072,Ekart Logistics,2024-04-25,2024-04-30,Delivered,Jaipur
+D343,O409,Ekart Logistics,2024-07-31,2024-08-06,Delivered,Ahmedabad
+D344,O192,Ekart Logistics,2024-03-17,2024-03-22,Failed,Ahmedabad
+D345,O448,Blue Dart,2024-07-10,2024-07-16,Delivered,Lucknow
+D346,O171,Ekart Logistics,2024-06-12,2024-06-14,Delivered,Ahmedabad
+D347,O400,Ekart Logistics,2024-02-29,2024-03-03,Delivered,Delhi
+D348,O294,DTDC,2024-04-09,2024-04-16,Failed,Delhi
+D349,O393,DTDC,2024-07-24,2024-07-28,Delivered,Bangalore
+D350,O334,Blue Dart,2023-07-09,2023-07-12,Delivered,Kolkata
+D351,O233,Shadowfax,2024-07-05,2024-07-12,Delivered,Pune
+D352,O456,Ekart Logistics,2023-12-24,2023-12-30,Delivered,Lucknow
+D353,O425,DTDC,2023-06-11,2023-06-13,Delivered,Pune
+D354,O078,Blue Dart,2024-08-13,2024-08-16,Delivered,Kolkata
+D355,O273,DTDC,2024-05-01,2024-05-08,Delivered,Lucknow
+D356,O474,Blue Dart,2024-08-25,2024-09-01,In Transit,Bangalore
+D357,O097,Delhivery,2023-09-15,2023-09-19,Delivered,Mumbai
+D358,O274,Shadowfax,2024-08-07,2024-08-09,Delivered,Ahmedabad
+D359,O179,Ekart Logistics,2023-11-16,2023-11-24,Delivered,Hyderabad
+D360,O337,Delhivery,2023-09-13,2023-09-17,Delivered,Chennai
+D361,O120,Delhivery,2024-07-01,2024-07-05,Delivered,Jaipur
+D362,O064,DTDC,2023-06-15,2023-06-20,In Transit,Hyderabad
+D363,O195,Ekart Logistics,2024-01-16,2024-01-21,Delivered,Hyderabad
+D364,O395,DTDC,2024-03-30,2024-04-07,Delivered,Bangalore
+D365,O260,Shadowfax,2024-06-06,2024-06-12,Delivered,Hyderabad
+D366,O062,DTDC,2024-06-15,2024-06-21,Delivered,Kolkata
+D367,O213,Delhivery,2023-09-17,2023-09-19,Delivered,Kolkata
+D368,O245,Blue Dart,2024-02-17,2024-02-19,Returned,Mumbai
+D369,O004,DTDC,2024-07-17,2024-07-22,Delivered,Delhi
+D370,O182,Blue Dart,2023-11-07,2023-11-15,Delivered,Chennai
+D371,O118,Ekart Logistics,2024-04-30,2024-05-07,In Transit,Jaipur
+D372,O009,Blue Dart,2024-06-09,2024-06-16,In Transit,Mumbai
+D373,O073,Delhivery,2023-08-31,2023-09-06,Delivered,Ahmedabad
+D374,O080,Delhivery,2024-05-22,2024-05-27,Delivered,Mumbai
+D375,O306,Delhivery,2024-08-18,2024-08-25,Delivered,Kolkata
+D376,O317,DTDC,2024-07-27,2024-07-30,Delivered,Bangalore
+D377,O480,Shadowfax,2023-08-18,2023-08-25,In Transit,Bangalore
+D378,O187,Ekart Logistics,2024-07-08,2024-07-11,Delivered,Hyderabad
+D379,O157,DTDC,2024-04-17,2024-04-21,Returned,Chennai
+D380,O319,Blue Dart,2023-06-16,2023-06-24,Delivered,Mumbai
+D381,O456,DTDC,2023-06-19,2023-06-26,In Transit,Pune
+D382,O024,Shadowfax,2023-12-12,2023-12-20,Delivered,Ahmedabad
+D383,O087,Delhivery,2023-07-23,2023-07-25,Delivered,Hyderabad
+D384,O048,DTDC,2023-07-05,2023-07-07,Returned,Jaipur
+D385,O213,Shadowfax,2024-01-13,2024-01-16,In Transit,Mumbai
+D386,O160,DTDC,2024-01-28,2024-02-01,Delivered,Ahmedabad
+D387,O188,Shadowfax,2024-05-09,2024-05-16,Delivered,Jaipur
+D388,O384,Shadowfax,2023-09-10,2023-09-13,Delivered,Bangalore
+D389,O413,Delhivery,2023-09-25,2023-10-02,Delivered,Delhi
+D390,O368,DTDC,2023-10-24,2023-10-30,Delivered,Hyderabad
+D391,O129,Delhivery,2024-06-09,2024-06-16,Delivered,Jaipur
+D392,O343,Shadowfax,2024-02-23,2024-02-29,Delivered,Chennai
+D393,O390,Delhivery,2023-11-16,2023-11-21,Delivered,Bangalore
+D394,O297,Ekart Logistics,2024-06-18,2024-06-26,Delivered,Mumbai
+D395,O407,Delhivery,2023-09-03,2023-09-05,Delivered,Mumbai
+D396,O428,Delhivery,2023-08-23,2023-08-28,Delivered,Lucknow
+D397,O247,DTDC,2024-08-14,2024-08-18,Delivered,Lucknow
+D398,O208,DTDC,2023-09-19,2023-09-24,Delivered,Ahmedabad
+D399,O226,Ekart Logistics,2024-06-17,2024-06-21,Delivered,Ahmedabad
+D400,O474,Blue Dart,2023-11-21,2023-11-24,Delivered,Jaipur
+D401,O396,Shadowfax,2024-01-21,2024-01-28,Delivered,Kolkata
+D402,O391,Shadowfax,2023-10-14,2023-10-16,Delivered,Pune
+D403,O329,Ekart Logistics,2024-03-06,2024-03-09,Delivered,Jaipur
+D404,O425,Ekart Logistics,2023-08-02,2023-08-08,Delivered,Bangalore
+D405,O448,Blue Dart,2023-11-06,2023-11-11,Delivered,Delhi
+D406,O495,Shadowfax,2023-09-03,2023-09-08,In Transit,Ahmedabad
+D407,O100,Delhivery,2024-08-05,2024-08-12,Delivered,Mumbai
+D408,O102,Blue Dart,2024-02-26,2024-03-03,Delivered,Lucknow
+D409,O441,Shadowfax,2024-02-25,2024-02-27,In Transit,Kolkata
+D410,O277,Delhivery,2024-05-22,2024-05-28,Delivered,Bangalore
+D411,O052,Delhivery,2024-04-22,2024-04-29,In Transit,Hyderabad
+D412,O432,Delhivery,2024-03-04,2024-03-10,Delivered,Hyderabad
+D413,O143,Ekart Logistics,2023-12-24,2023-12-28,Delivered,Ahmedabad
+D414,O498,DTDC,2024-01-31,2024-02-05,Delivered,Chennai
+D415,O001,Ekart Logistics,2023-10-08,2023-10-15,Delivered,Chennai
+D416,O107,Shadowfax,2024-04-01,2024-04-03,Delivered,Pune
+D417,O072,Delhivery,2024-02-03,2024-02-11,Delivered,Hyderabad
+D418,O201,Delhivery,2024-04-27,2024-05-02,Delivered,Hyderabad
+D419,O128,Blue Dart,2023-07-08,2023-07-11,Returned,Chennai
+D420,O072,DTDC,2023-08-04,2023-08-11,Delivered,Bangalore
+D421,O106,DTDC,2023-08-13,2023-08-20,Delivered,Kolkata
+D422,O006,Ekart Logistics,2024-02-23,2024-02-27,Delivered,Lucknow
+D423,O242,Delhivery,2024-05-05,2024-05-10,Delivered,Delhi
+D424,O278,Shadowfax,2024-01-20,2024-01-23,Delivered,Kolkata
+D425,O449,Blue Dart,2023-06-22,2023-06-27,In Transit,Chennai
+D426,O058,DTDC,2024-01-06,2024-01-12,Delivered,Jaipur
+D427,O389,Blue Dart,2023-09-25,2023-10-01,Delivered,Lucknow
+D428,O492,Shadowfax,2024-08-17,2024-08-21,Delivered,Jaipur
+D429,O429,DTDC,2024-01-03,2024-01-05,Delivered,Chennai
+D430,O432,Blue Dart,2023-10-08,2023-10-15,Delivered,Pune
+D431,O342,Blue Dart,2023-12-01,2023-12-03,Delivered,Jaipur
+D432,O125,Shadowfax,2024-02-10,2024-02-13,Delivered,Chennai
+D433,O054,DTDC,2024-03-15,2024-03-21,In Transit,Pune
+D434,O311,Shadowfax,2024-08-20,2024-08-27,Delivered,Lucknow
+D435,O056,Shadowfax,2024-08-04,2024-08-12,Delivered,Delhi
+D436,O295,Ekart Logistics,2023-08-01,2023-08-09,Delivered,Lucknow
+D437,O345,Shadowfax,2024-01-03,2024-01-11,Delivered,Mumbai
+D438,O178,DTDC,2024-08-11,2024-08-16,Delivered,Ahmedabad
+D439,O020,DTDC,2024-07-22,2024-07-30,Delivered,Pune
+D440,O343,Ekart Logistics,2023-09-20,2023-09-26,Delivered,Kolkata
+D441,O051,Blue Dart,2023-12-30,2024-01-07,Delivered,Jaipur
+D442,O435,Blue Dart,2023-12-02,2023-12-10,Delivered,Kolkata
+D443,O499,Delhivery,2023-10-21,2023-10-26,Delivered,Kolkata
+D444,O235,Blue Dart,2024-06-29,2024-07-07,Delivered,Ahmedabad
+D445,O395,Shadowfax,2024-04-28,2024-05-02,Delivered,Kolkata
+D446,O400,Delhivery,2024-08-07,2024-08-12,In Transit,Kolkata
+D447,O181,Shadowfax,2024-03-03,2024-03-10,In Transit,Hyderabad
+D448,O163,Blue Dart,2023-07-23,2023-07-30,Delivered,Pune
+D449,O161,Shadowfax,2024-02-11,2024-02-18,Delivered,Pune
+D450,O104,Blue Dart,2024-08-13,2024-08-20,Delivered,Kolkata
+D451,O413,DTDC,2023-12-04,2023-12-12,Delivered,Bangalore
+D452,O166,Ekart Logistics,2023-07-29,2023-08-01,Delivered,Ahmedabad
+D453,O359,Shadowfax,2023-10-31,2023-11-08,Delivered,Bangalore
+D454,O204,Shadowfax,2024-05-23,2024-05-25,Delivered,Delhi
+D455,O365,Shadowfax,2024-08-23,2024-08-30,Delivered,Chennai
+D456,O075,Blue Dart,2024-02-29,2024-03-04,Delivered,Pune
+D457,O054,Blue Dart,2024-04-11,2024-04-17,Failed,Kolkata
+D458,O116,DTDC,2024-07-28,2024-07-30,Delivered,Bangalore
+D459,O342,Blue Dart,2023-06-15,2023-06-20,Delivered,Hyderabad
+D460,O126,Delhivery,2024-01-13,2024-01-20,In Transit,Bangalore
+D461,O007,Blue Dart,2023-10-04,2023-10-06,In Transit,Jaipur
+D462,O430,DTDC,2023-12-31,2024-01-06,Delivered,Lucknow
+D463,O099,DTDC,2023-09-05,2023-09-13,Delivered,Pune
+D464,O322,Shadowfax,2023-12-17,2023-12-24,Delivered,Kolkata
+D465,O412,Blue Dart,2024-01-08,2024-01-12,Delivered,Hyderabad
+D466,O164,Shadowfax,2023-12-01,2023-12-03,Returned,Bangalore
+D467,O165,Delhivery,2024-07-13,2024-07-19,Delivered,Delhi
+D468,O470,Shadowfax,2024-05-29,2024-06-03,Delivered,Delhi
+D469,O414,Shadowfax,2023-09-26,2023-10-03,Delivered,Ahmedabad
+D470,O421,Delhivery,2024-01-26,2024-01-30,Delivered,Mumbai
+D471,O236,Shadowfax,2024-01-12,2024-01-17,Delivered,Delhi
+D472,O489,Delhivery,2023-06-13,2023-06-19,Delivered,Mumbai
+D473,O459,Blue Dart,2024-02-01,2024-02-09,Delivered,Delhi
+D474,O350,Blue Dart,2023-07-05,2023-07-12,Delivered,Chennai
+D475,O486,Ekart Logistics,2024-06-01,2024-06-07,Delivered,Bangalore
+D476,O203,Delhivery,2024-05-05,2024-05-10,Delivered,Chennai
+D477,O170,Delhivery,2024-03-19,2024-03-27,In Transit,Pune
+D478,O074,Shadowfax,2024-05-15,2024-05-21,Delivered,Mumbai
+D479,O498,Shadowfax,2023-06-29,2023-07-06,Delivered,Lucknow
+D480,O062,Ekart Logistics,2024-04-11,2024-04-13,Delivered,Bangalore
+D481,O376,Delhivery,2023-10-07,2023-10-13,Delivered,Bangalore
+D482,O428,Delhivery,2023-06-17,2023-06-24,Returned,Delhi
+D483,O170,Ekart Logistics,2023-07-20,2023-07-25,Delivered,Pune
+D484,O413,DTDC,2023-12-14,2023-12-21,Delivered,Kolkata
+D485,O094,Ekart Logistics,2023-11-08,2023-11-12,Delivered,Pune
+D486,O451,Blue Dart,2024-02-12,2024-02-14,Delivered,Pune
+D487,O103,Delhivery,2023-11-28,2023-12-05,Delivered,Kolkata
+D488,O232,Ekart Logistics,2024-02-25,2024-02-29,Delivered,Lucknow
+D489,O032,Shadowfax,2023-07-02,2023-07-09,Delivered,Bangalore
+D490,O001,Shadowfax,2023-06-08,2023-06-10,Delivered,Chennai
+D491,O015,Shadowfax,2024-03-16,2024-03-20,In Transit,Bangalore
+D492,O097,Shadowfax,2024-02-12,2024-02-15,Delivered,Kolkata
+D493,O050,Delhivery,2024-04-04,2024-04-08,Delivered,Jaipur
+D494,O362,Delhivery,2024-02-16,2024-02-19,In Transit,Jaipur
+D495,O016,Shadowfax,2023-06-21,2023-06-27,In Transit,Delhi
+D496,O414,Blue Dart,2023-10-29,2023-10-31,Delivered,Bangalore
+D497,O303,Shadowfax,2023-08-26,2023-08-28,Delivered,Lucknow
+D498,O080,Shadowfax,2023-11-21,2023-11-26,Returned,Ahmedabad
+D499,O426,DTDC,2024-07-07,2024-07-12,Returned,Ahmedabad
+D500,O034,Blue Dart,2023-10-06,2023-10-10,Delivered,Jaipur

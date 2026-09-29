@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,brand,price,seller_id
+P001,The Psychology of Money,Books,Finance,Jaico,349,S036
+P002,The Psychology of Money,Books,Finance,Jaico,349,S231
+P003,Syska LED Strip,Home,Decor,Syska,599,S135
+P004,Wings of Fire,Books,Biography,Universities Press,299,S233
+P005,Mi 5X 50 inch,Electronics,TV,Mi,29999,S327
+P006,The Alchemist,Books,Fiction,HarperCollins,349,S376
+P007,Levis 511 Jeans,Fashion,Men,Levis,2799,S318
+P008,Philips LED Bulb 9W,Home,Decor,Philips,149,S318
+P009,Puma Running Shoes,Fashion,Footwear,Puma,4999,S370
+P010,Sony Bravia 55 4K,Electronics,TV,Sony,79990,S496
+P011,7 Habits,Books,Self-Help,Simon,449,S199
+P012,Womens Dress,Fashion,Women,Zara,2999,S350
+P013,Loreal Foundation,Beauty,Makeup,Loreal,899,S283
+P014,Fastrack Watch,Fashion,Men,Fastrack,1999,S145
+P015,Sleepwell Mattress,Home,Furniture,Sleepwell,9999,S329
+P016,Hawkins Cooker 5L,Home,Kitchen,Hawkins,2199,S050
+P017,Zero to One,Books,Business,Random House,499,S035
+P018,Samsung Refrigerator,Electronics,Appliances,Samsung,32990,S481
+P019,Van Heusen Trouser,Fashion,Men,Van Heusen,1999,S448
+P020,OnePlus Nord CE 4,Electronics,Mobiles,OnePlus,24999,S055
+P021,Mamaearth Shampoo,Beauty,Haircare,Mamaearth,399,S051
+P022,Boat Airdopes 141,Electronics,Audio,Boat,1299,S329
+P023,Maybelline Lipstick,Beauty,Makeup,Maybelline,399,S251
+P024,The Hobbit,Books,Fiction,HarperCollins,449,S360
+P025,Think and Grow Rich,Books,Self-Help,Rupa,249,S026
+P026,Bajaj Mixer 750W,Home,Kitchen,Bajaj,2999,S311
+P027,LEGO Technic Car,Toys,Building,LEGO,4999,S007
+P028,Titan Watch,Fashion,Men,Titan,4999,S252
+P029,Lenovo IdeaPad,Electronics,Laptops,Lenovo,47999,S411
+P030,LEGO Classic Bricks,Toys,Building,LEGO,2999,S185
+P031,Deep Work,Books,Self-Help,Grand Central,399,S481
+P032,Himalaya Neem Soap,Beauty,Skincare,Himalaya,99,S189
+P033,LEGO Classic Bricks,Toys,Building,LEGO,2999,S422
+P034,Think and Grow Rich,Books,Self-Help,Rupa,249,S271
+P035,LG OLED 55,Electronics,TV,LG,129990,S037
+P036,Hawkins Cooker 5L,Home,Kitchen,Hawkins,2199,S484
+P037,Womens Dress,Fashion,Women,Zara,2999,S050
+P038,LG OLED 55,Electronics,TV,LG,129990,S119
+P039,The Alchemist,Books,Fiction,HarperCollins,349,S098
+P040,Womens Dress,Fashion,Women,Zara,2999,S337
+P041,Kids Jeans,Fashion,Kids,Levis,999,S321
+P042,Kids T-Shirt,Fashion,Kids,H&M,499,S384
+P043,The Alchemist,Books,Fiction,HarperCollins,349,S383
+P044,Mi 5X 50 inch,Electronics,TV,Mi,29999,S327
+P045,Wings of Fire,Books,Biography,Universities Press,299,S346
+P046,Lakme Kajal,Beauty,Makeup,Lakme,199,S341
+P047,Ponds Powder,Beauty,Makeup,Ponds,249,S054
+P048,Van Heusen Trouser,Fashion,Men,Van Heusen,1999,S282
+P049,Loreal Serum,Beauty,Skincare,Loreal,799,S173
+P050,Barbie Doll Classic,Toys,Dolls,Barbie,999,S274
+P051,Sapiens,Books,History,HarperCollins,599,S478
+P052,Wakefit Mattress Queen,Home,Furniture,Wakefit,12999,S282
+P053,Syska LED Strip,Home,Decor,Syska,599,S191
+P054,Loreal Foundation,Beauty,Makeup,Loreal,899,S325
+P055,Himalaya Neem Soap,Beauty,Skincare,Himalaya,99,S372
+P056,Wakefit Sofa,Home,Furniture,Wakefit,24999,S124
+P057,Harry Potter Boxset,Books,Fiction,Bloomsbury,2499,S110
+P058,Loreal Foundation,Beauty,Makeup,Loreal,899,S282
+P059,Hot Wheels Set 5,Toys,Building,Hot Wheels,799,S185
+P060,Nivea Soft Cream,Beauty,Skincare,Nivea,299,S492
+P061,Lakme Face Wash,Beauty,Skincare,Lakme,299,S372
+P062,Vivo V30,Electronics,Mobiles,Vivo,33999,S306
+P063,Sony WH-1000XM5,Electronics,Audio,Sony,29990,S070
+P064,Prestige Pressure Cooker,Home,Kitchen,Prestige,2499,S154
+P065,FabIndia Kurta Men,Fashion,Men,FabIndia,2499,S439
+P066,Prestige Pressure Cooker,Home,Kitchen,Prestige,2499,S396
+P067,Melissa Art Set,Toys,Building,Melissa,899,S142
+P068,Harry Potter Boxset,Books,Fiction,Bloomsbury,2499,S285
+P069,Do Epic Shit,Books,Self-Help,Penguin,299,S293
+P070,Peter England Shirt,Fashion,Men,Peter England,1299,S020
+P071,Head & Shoulders,Beauty,Haircare,H&S,399,S080
+P072,Nike Revolution,Fashion,Footwear,Nike,3999,S188
+P073,Ikigai,Books,Self-Help,Penguin,399,S120
+P074,Philips LED Bulb 9W,Home,Decor,Philips,149,S154
+P075,Boat Airdopes 141,Electronics,Audio,Boat,1299,S205
+P076,Do Epic Shit,Books,Self-Help,Penguin,299,S112
+P077,LEGO Technic Car,Toys,Building,LEGO,4999,S371
+P078,Philips LED Bulb 9W,Home,Decor,Philips,149,S248
+P079,Womens Jeans,Fashion,Women,Levis,2499,S423
+P080,Hamleys Puzzle 500,Toys,Building,Hamleys,499,S296
+P081,JBL Tune 770NC,Electronics,Audio,JBL,6999,S329
+P082,Prestige Pressure Cooker,Home,Kitchen,Prestige,2499,S375
+P083,The Alchemist,Books,Fiction,HarperCollins,349,S041
+P084,Dell 24 Monitor,Electronics,Monitors,Dell,12999,S395
+P085,Wakefit Mattress Queen,Home,Furniture,Wakefit,12999,S451
+P086,Nivea Body Lotion,Beauty,Skincare,Nivea,349,S477
+P087,Whirlpool Washing Machine,Electronics,Appliances,Whirlpool,24990,S395
+P088,Titan Watch,Fashion,Men,Titan,4999,S435
+P089,Do Epic Shit,Books,Self-Help,Penguin,299,S006
+P090,Play Doh Set,Toys,Building,Play-Doh,599,S324
+P091,Lakme Face Wash,Beauty,Skincare,Lakme,299,S157
+P092,Atomic Habits,Books,Self-Help,Penguin,499,S164
+P093,The Hobbit,Books,Fiction,HarperCollins,449,S077
+P094,Nilkamal Chair Set,Home,Furniture,Nilkamal,4999,S358
+P095,US Polo T-Shirt,Fashion,Men,US Polo,999,S026
+P096,Hamleys Puzzle 500,Toys,Building,Hamleys,499,S202
+P097,Loreal Foundation,Beauty,Makeup,Loreal,899,S305
+P098,Harry Potter Boxset,Books,Fiction,Bloomsbury,2499,S047
+P099,Womens Kurti Cotton,Fashion,Women,Libas,899,S149
+P100,Mamaearth Face Wash,Beauty,Skincare,Mamaearth,249,S068
+P101,Hawkins Cooker 5L,Home,Kitchen,Hawkins,2199,S244
+P102,Deep Work,Books,Self-Help,Grand Central,399,S026
+P103,The Alchemist,Books,Fiction,HarperCollins,349,S135
+P104,HP Pavilion 15,Electronics,Laptops,HP,55999,S257
+P105,Loreal Foundation,Beauty,Makeup,Loreal,899,S358
+P106,US Polo T-Shirt,Fashion,Men,US Polo,999,S247
+P107,Ikigai,Books,Self-Help,Penguin,399,S250
+P108,Maybelline Lipstick,Beauty,Makeup,Maybelline,399,S293
+P109,Kids T-Shirt,Fashion,Kids,H&M,499,S316
+P110,Remote Control Car,Toys,Outdoor,Funskool,1499,S127
+P111,Allen Solly Formal Shirt,Fashion,Men,Allen Solly,1799,S137
+P112,Head & Shoulders,Beauty,Haircare,H&S,399,S351
+P113,Rich Dad Poor Dad,Books,Finance,Penguin,399,S058
+P114,Funskool Chess,Toys,Outdoor,Funskool,599,S217
+P115,Wakefit Mattress Queen,Home,Furniture,Wakefit,12999,S098
+P116,Wakefit Mattress Queen,Home,Furniture,Wakefit,12999,S305
+P117,LEGO Classic Bricks,Toys,Building,LEGO,2999,S395
+P118,Philips Mixer Grinder,Home,Kitchen,Philips,3499,S180
+P119,7 Habits,Books,Self-Help,Simon,449,S412
+P120,Himalaya Face Pack,Beauty,Skincare,Himalaya,199,S075
+P121,Lakme Face Wash,Beauty,Skincare,Lakme,299,S474
+P122,FabIndia Kurta Men,Fashion,Men,FabIndia,2499,S351
+P123,Philips Mixer Grinder,Home,Kitchen,Philips,3499,S388
+P124,Melissa Art Set,Toys,Building,Melissa,899,S044
+P125,LG OLED 55,Electronics,TV,LG,129990,S028
+P126,Fastrack Watch,Fashion,Men,Fastrack,1999,S475
+P127,Adidas Ultraboost,Fashion,Footwear,Adidas,12999,S008
+P128,Home Centre Cushion,Home,Decor,Home Centre,499,S412
+P129,Vivo V30,Electronics,Mobiles,Vivo,33999,S231
+P130,Lakme Face Wash,Beauty,Skincare,Lakme,299,S170
+P131,Kids T-Shirt,Fashion,Kids,H&M,499,S109
+P132,Kids T-Shirt,Fashion,Kids,H&M,499,S268
+P133,Nilkamal Chair Set,Home,Furniture,Nilkamal,4999,S248
+P134,Deep Work,Books,Self-Help,Grand Central,399,S073
+P135,Hamleys Puzzle 500,Toys,Building,Hamleys,499,S343
+P136,HP Pavilion 15,Electronics,Laptops,HP,55999,S299
+P137,Remote Control Car,Toys,Outdoor,Funskool,1499,S023
+P138,Philips Mixer Grinder,Home,Kitchen,Philips,3499,S031
+P139,Bajaj Mixer 750W,Home,Kitchen,Bajaj,2999,S405
+P140,Rubiks Cube,Toys,Building,Rubiks,399,S139
+P141,Lenovo IdeaPad,Electronics,Laptops,Lenovo,47999,S336
+P142,Apple iPhone 14,Electronics,Mobiles,Apple,69900,S199
+P143,Hot Wheels Set 5,Toys,Building,Hot Wheels,799,S340
+P144,Funskool Monopoly,Toys,Outdoor,Funskool,899,S443
+P145,Apple iPhone 15,Electronics,Mobiles,Apple,79900,S150
+P146,Funskool Chess,Toys,Outdoor,Funskool,599,S119
+P147,Loreal Serum,Beauty,Skincare,Loreal,799,S364
+P148,Bosch Dishwasher,Electronics,Appliances,Bosch,45990,S162
+P149,Himalaya Neem Soap,Beauty,Skincare,Himalaya,99,S306
+P150,Rich Dad Poor Dad,Books,Finance,Penguin,399,S096
+P151,Womens Dress,Fashion,Women,Zara,2999,S495
+P152,Loreal Serum,Beauty,Skincare,Loreal,799,S475
+P153,LEGO Classic Bricks,Toys,Building,LEGO,2999,S021
+P154,Womens Dress,Fashion,Women,Zara,2999,S157
+P155,Godrej Almirah,Home,Furniture,Godrej,18999,S202
+P156,Barbie Doll Classic,Toys,Dolls,Barbie,999,S010
+P157,Bombay Dyeing Bedsheet,Home,Decor,Bombay Dyeing,999,S181
+P158,Bombay Dyeing Bedsheet,Home,Decor,Bombay Dyeing,999,S155
+P159,Womens Dress,Fashion,Women,Zara,2999,S142
+P160,Samsung Galaxy Buds,Electronics,Audio,Samsung,9999,S132
+P161,Ponds Powder,Beauty,Makeup,Ponds,249,S418
+P162,LG 27 4K Monitor,Electronics,Monitors,LG,32999,S285
+P163,Bajaj Mixer 750W,Home,Kitchen,Bajaj,2999,S078
+P164,Sleepwell Mattress,Home,Furniture,Sleepwell,9999,S337
+P165,Allen Solly Formal Shirt,Fashion,Men,Allen Solly,1799,S374
+P166,Loreal Serum,Beauty,Skincare,Loreal,799,S492
+P167,Rubiks Cube,Toys,Building,Rubiks,399,S447
+P168,Hamleys Teddy Bear,Toys,Dolls,Hamleys,799,S117
+P169,Mamaearth Shampoo,Beauty,Haircare,Mamaearth,399,S294
+P170,Womens Kurti Cotton,Fashion,Women,Libas,899,S497
+P171,Wakefit Sofa,Home,Furniture,Wakefit,24999,S169
+P172,Loreal Serum,Beauty,Skincare,Loreal,799,S068
+P173,Titan Watch,Fashion,Men,Titan,4999,S071
+P174,Harry Potter Boxset,Books,Fiction,Bloomsbury,2499,S351
+P175,US Polo T-Shirt,Fashion,Men,US Polo,999,S159
+P176,Hamleys Puzzle 500,Toys,Building,Hamleys,499,S461
+P177,Do Epic Shit,Books,Self-Help,Penguin,299,S070
+P178,Ponds Powder,Beauty,Makeup,Ponds,249,S500
+P179,Titan Watch,Fashion,Men,Titan,4999,S478
+P180,Do Epic Shit,Books,Self-Help,Penguin,299,S081
+P181,Hawkins Cooker 5L,Home,Kitchen,Hawkins,2199,S286
+P182,Deep Work,Books,Self-Help,Grand Central,399,S061
+P183,Puma Running Shoes,Fashion,Footwear,Puma,4999,S430
+P184,Levis 511 Jeans,Fashion,Men,Levis,2799,S392
+P185,Sleepwell Mattress,Home,Furniture,Sleepwell,9999,S493
+P186,Dove Shampoo 650ml,Beauty,Haircare,Dove,499,S227
+P187,Card Game Uno,Toys,Outdoor,Mattel,199,S421
+P188,Card Game Uno,Toys,Outdoor,Mattel,199,S379
+P189,Philips Mixer Grinder,Home,Kitchen,Philips,3499,S399
+P190,Peter England Shirt,Fashion,Men,Peter England,1299,S068
+P191,Levis 511 Jeans,Fashion,Men,Levis,2799,S391
+P192,The Hobbit,Books,Fiction,HarperCollins,449,S137
+P193,The Hobbit,Books,Fiction,HarperCollins,449,S314
+P194,Fastrack Watch,Fashion,Men,Fastrack,1999,S119
+P195,Levis 511 Jeans,Fashion,Men,Levis,2799,S184
+P196,Samsung Crystal 43,Electronics,TV,Samsung,32990,S400
+P197,Mamaearth Face Wash,Beauty,Skincare,Mamaearth,249,S258
+P198,Sapiens,Books,History,HarperCollins,599,S365
+P199,Funskool Monopoly,Toys,Outdoor,Funskool,899,S095
+P200,Nivea Soft Cream,Beauty,Skincare,Nivea,299,S243
+P201,Van Heusen Trouser,Fashion,Men,Van Heusen,1999,S099
+P202,Levis 501 Original,Fashion,Men,Levis,3499,S210
+P203,Dell 24 Monitor,Electronics,Monitors,Dell,12999,S139
+P204,Mamaearth Shampoo,Beauty,Haircare,Mamaearth,399,S381
+P205,Barbie Dreamhouse,Toys,Dolls,Barbie,4999,S388
+P206,Allen Solly Formal Shirt,Fashion,Men,Allen Solly,1799,S091
+P207,Himalaya Neem Soap,Beauty,Skincare,Himalaya,99,S316
+P208,Lakme Kajal,Beauty,Makeup,Lakme,199,S167
+P209,Ponds Powder,Beauty,Makeup,Ponds,249,S127
+P210,Nivea Body Lotion,Beauty,Skincare,Nivea,349,S398
+P211,JBL Tune 770NC,Electronics,Audio,JBL,6999,S377
+P212,Lakme Kajal,Beauty,Makeup,Lakme,199,S161
+P213,Himalaya Face Pack,Beauty,Skincare,Himalaya,199,S481
+P214,Rubiks Cube,Toys,Building,Rubiks,399,S305
+P215,Harry Potter Boxset,Books,Fiction,Bloomsbury,2499,S329
+P216,Play Doh Set,Toys,Building,Play-Doh,599,S020
+P217,Rich Dad Poor Dad,Books,Finance,Penguin,399,S232
+P218,Himalaya Neem Soap,Beauty,Skincare,Himalaya,99,S450
+P219,Bosch Dishwasher,Electronics,Appliances,Bosch,45990,S126
+P220,Harry Potter Boxset,Books,Fiction,Bloomsbury,2499,S203
+P221,LEGO Classic Bricks,Toys,Building,LEGO,2999,S286
+P222,Loreal Serum,Beauty,Skincare,Loreal,799,S392
+P223,LEGO Classic Bricks,Toys,Building,LEGO,2999,S098
+P224,Godrej Almirah,Home,Furniture,Godrej,18999,S204
+P225,Philips LED Bulb 9W,Home,Decor,Philips,149,S424
+P226,Godrej Almirah,Home,Furniture,Godrej,18999,S086
+P227,Dove Shampoo 650ml,Beauty,Haircare,Dove,499,S314
+P228,Samsung Crystal 43,Electronics,TV,Samsung,32990,S265
+P229,Womens Top,Fashion,Women,H&M,1299,S425
+P230,Nerf Gun Blaster,Toys,Outdoor,Nerf,1999,S047
+P231,Remote Control Car,Toys,Outdoor,Funskool,1499,S058
+P232,Kids Jeans,Fashion,Kids,Levis,999,S481
+P233,Remote Control Car,Toys,Outdoor,Funskool,1499,S070
+P234,Nivea Body Lotion,Beauty,Skincare,Nivea,349,S166
+P235,Lakme Face Wash,Beauty,Skincare,Lakme,299,S092
+P236,Himalaya Face Pack,Beauty,Skincare,Himalaya,199,S460
+P237,Card Game Uno,Toys,Outdoor,Mattel,199,S104
+P238,Lakme Sunscreen SPF50,Beauty,Skincare,Lakme,499,S129
+P239,Home Centre Cushion,Home,Decor,Home Centre,499,S333
+P240,Play Doh Set,Toys,Building,Play-Doh,599,S084
+P241,Hamleys Puzzle 500,Toys,Building,Hamleys,499,S064
+P242,Samsung Galaxy S24,Electronics,Mobiles,Samsung,74999,S362
+P243,Maybelline Lipstick,Beauty,Makeup,Maybelline,399,S186
+P244,Sony WH-1000XM5,Electronics,Audio,Sony,29990,S363
+P245,Lakme Kajal,Beauty,Makeup,Lakme,199,S406
+P246,The Hobbit,Books,Fiction,HarperCollins,449,S487
+P247,Womens Saree Silk,Fashion,Women,FabIndia,4999,S282
+P248,Lakme Face Wash,Beauty,Skincare,Lakme,299,S394
+P249,Puma Running Shoes,Fashion,Footwear,Puma,4999,S290
+P250,Melissa Art Set,Toys,Building,Melissa,899,S077
+P251,US Polo T-Shirt,Fashion,Men,US Polo,999,S092
+P252,LEGO Classic Bricks,Toys,Building,LEGO,2999,S215
+P253,Prestige Induction,Home,Kitchen,Prestige,2299,S374
+P254,Dove Shampoo 650ml,Beauty,Haircare,Dove,499,S321
+P255,Peter England Shirt,Fashion,Men,Peter England,1299,S461
+P256,FabIndia Kurta Men,Fashion,Men,FabIndia,2499,S002
+P257,The Lean Startup,Books,Business,Crown,549,S130
+P258,Lenovo IdeaPad,Electronics,Laptops,Lenovo,47999,S255
+P259,Loreal Serum,Beauty,Skincare,Loreal,799,S414
+P260,JBL Tune 770NC,Electronics,Audio,JBL,6999,S452
+P261,Mamaearth Shampoo,Beauty,Haircare,Mamaearth,399,S112
+P262,Zero to One,Books,Business,Random House,499,S244
+P263,Nivea Body Lotion,Beauty,Skincare,Nivea,349,S227
+P264,JBL Tune 770NC,Electronics,Audio,JBL,6999,S308
+P265,Redmi Note 13 Pro,Electronics,Mobiles,Redmi,23999,S452
+P266,Think and Grow Rich,Books,Self-Help,Rupa,249,S318
+P267,Remote Control Car,Toys,Outdoor,Funskool,1499,S420
+P268,Levis 501 Original,Fashion,Men,Levis,3499,S095
+P269,Levis 501 Original,Fashion,Men,Levis,3499,S335
+P270,Prestige Pressure Cooker,Home,Kitchen,Prestige,2499,S075
+P271,Sony Bravia 55 4K,Electronics,TV,Sony,79990,S296
+P272,Think and Grow Rich,Books,Self-Help,Rupa,249,S170
+P273,Apple iPhone 15 Pro,Electronics,Mobiles,Apple,134900,S056
+P274,Mamaearth Face Wash,Beauty,Skincare,Mamaearth,249,S083
+P275,Hot Wheels Set 5,Toys,Building,Hot Wheels,799,S313
+P276,Hamleys Puzzle 500,Toys,Building,Hamleys,499,S359
+P277,The Hobbit,Books,Fiction,HarperCollins,449,S404
+P278,The Psychology of Money,Books,Finance,Jaico,349,S495
+P279,Lakme Kajal,Beauty,Makeup,Lakme,199,S297
+P280,Prestige Pressure Cooker,Home,Kitchen,Prestige,2499,S048
+P281,Wakefit Mattress Queen,Home,Furniture,Wakefit,12999,S189
+P282,Himalaya Neem Soap,Beauty,Skincare,Himalaya,99,S035
+P283,Himalaya Neem Soap,Beauty,Skincare,Himalaya,99,S282
+P284,Vivo V30,Electronics,Mobiles,Vivo,33999,S242
+P285,Peter England Shirt,Fashion,Men,Peter England,1299,S356
+P286,Wakefit Mattress Queen,Home,Furniture,Wakefit,12999,S270
+P287,Loreal Serum,Beauty,Skincare,Loreal,799,S108
+P288,Barbie Dreamhouse,Toys,Dolls,Barbie,4999,S314
+P289,Samsung Galaxy S24,Electronics,Mobiles,Samsung,74999,S293
+P290,Hamleys Teddy Bear,Toys,Dolls,Hamleys,799,S271
+P291,ASUS VivoBook,Electronics,Laptops,ASUS,44999,S371
+P292,Rubiks Cube,Toys,Building,Rubiks,399,S479
+P293,Hot Wheels Set 5,Toys,Building,Hot Wheels,799,S219
+P294,7 Habits,Books,Self-Help,Simon,449,S163
+P295,Nilkamal Chair Set,Home,Furniture,Nilkamal,4999,S295
+P296,Wings of Fire,Books,Biography,Universities Press,299,S475
+P297,Fastrack Watch,Fashion,Men,Fastrack,1999,S289
+P298,Loreal Serum,Beauty,Skincare,Loreal,799,S374
+P299,Nerf Gun Blaster,Toys,Outdoor,Nerf,1999,S253
+P300,Fastrack Watch,Fashion,Men,Fastrack,1999,S120
+P301,Hot Wheels Set 5,Toys,Building,Hot Wheels,799,S100
+P302,Samsung Galaxy S24,Electronics,Mobiles,Samsung,74999,S013
+P303,Maybelline Lipstick,Beauty,Makeup,Maybelline,399,S408
+P304,LG OLED 55,Electronics,TV,LG,129990,S435
+P305,Fastrack Watch,Fashion,Men,Fastrack,1999,S213
+P306,Lakme Face Wash,Beauty,Skincare,Lakme,299,S171
+P307,Nilkamal Chair Set,Home,Furniture,Nilkamal,4999,S413
+P308,Barbie Dreamhouse,Toys,Dolls,Barbie,4999,S006
+P309,Barbie Dreamhouse,Toys,Dolls,Barbie,4999,S354
+P310,Prestige Induction,Home,Kitchen,Prestige,2299,S405
+P311,Vivo V30,Electronics,Mobiles,Vivo,33999,S154
+P312,Harry Potter Boxset,Books,Fiction,Bloomsbury,2499,S166
+P313,Samsung Galaxy S24,Electronics,Mobiles,Samsung,74999,S352
+P314,Wakefit Mattress Queen,Home,Furniture,Wakefit,12999,S203
+P315,Rubiks Cube,Toys,Building,Rubiks,399,S316
+P316,Samsung Refrigerator,Electronics,Appliances,Samsung,32990,S090
+P317,Puma Running Shoes,Fashion,Footwear,Puma,4999,S427
+P318,Bombay Dyeing Bedsheet,Home,Decor,Bombay Dyeing,999,S246
+P319,Loreal Foundation,Beauty,Makeup,Loreal,899,S019
+P320,Barbie Doll Classic,Toys,Dolls,Barbie,999,S247
+P321,Titan Watch,Fashion,Men,Titan,4999,S236
+P322,Do Epic Shit,Books,Self-Help,Penguin,299,S172
+P323,Loreal Foundation,Beauty,Makeup,Loreal,899,S417
+P324,Ponds Powder,Beauty,Makeup,Ponds,249,S381
+P325,Samsung Refrigerator,Electronics,Appliances,Samsung,32990,S267
+P326,Wakefit Sofa,Home,Furniture,Wakefit,24999,S372
+P327,Funskool Monopoly,Toys,Outdoor,Funskool,899,S285
+P328,Atomic Habits,Books,Self-Help,Penguin,499,S107
+P329,Zero to One,Books,Business,Random House,499,S170
+P330,Hawkins Cooker 5L,Home,Kitchen,Hawkins,2199,S497
+P331,Nike Revolution,Fashion,Footwear,Nike,3999,S431
+P332,MacBook Air M2,Electronics,Laptops,Apple,99900,S193
+P333,Remote Control Car,Toys,Outdoor,Funskool,1499,S432
+P334,Kids Jeans,Fashion,Kids,Levis,999,S311
+P335,Mamaearth Face Wash,Beauty,Skincare,Mamaearth,249,S305
+P336,Whirlpool Washing Machine,Electronics,Appliances,Whirlpool,24990,S401
+P337,Home Centre Cushion,Home,Decor,Home Centre,499,S440
+P338,Home Centre Cushion,Home,Decor,Home Centre,499,S017
+P339,Sleepwell Mattress,Home,Furniture,Sleepwell,9999,S045
+P340,Ponds Powder,Beauty,Makeup,Ponds,249,S122
+P341,Godrej Almirah,Home,Furniture,Godrej,18999,S425
+P342,Bajaj Mixer 750W,Home,Kitchen,Bajaj,2999,S269
+P343,Philips Mixer Grinder,Home,Kitchen,Philips,3499,S058
+P344,Philips LED Bulb 9W,Home,Decor,Philips,149,S020
+P345,Allen Solly Formal Shirt,Fashion,Men,Allen Solly,1799,S228
+P346,Atomic Habits,Books,Self-Help,Penguin,499,S410
+P347,Ponds Powder,Beauty,Makeup,Ponds,249,S257
+P348,FabIndia Kurta Men,Fashion,Men,FabIndia,2499,S175
+P349,Lakme Kajal,Beauty,Makeup,Lakme,199,S448
+P350,Think and Grow Rich,Books,Self-Help,Rupa,249,S398
+P351,Philips Mixer Grinder,Home,Kitchen,Philips,3499,S394
+P352,Samsung Refrigerator,Electronics,Appliances,Samsung,32990,S481
+P353,Zero to One,Books,Business,Random House,499,S068
+P354,Levis 501 Original,Fashion,Men,Levis,3499,S236
+P355,Lakme Kajal,Beauty,Makeup,Lakme,199,S443
+P356,Rich Dad Poor Dad,Books,Finance,Penguin,399,S003
+P357,Prestige Pressure Cooker,Home,Kitchen,Prestige,2499,S352
+P358,7 Habits,Books,Self-Help,Simon,449,S045
+P359,Godrej Almirah,Home,Furniture,Godrej,18999,S456
+P360,Samsung Galaxy S24,Electronics,Mobiles,Samsung,74999,S267
+P361,Hamleys Puzzle 500,Toys,Building,Hamleys,499,S160
+P362,Boat Airdopes 141,Electronics,Audio,Boat,1299,S389
+P363,Bombay Dyeing Bedsheet,Home,Decor,Bombay Dyeing,999,S457
+P364,Puma Running Shoes,Fashion,Footwear,Puma,4999,S103
+P365,Adidas Ultraboost,Fashion,Footwear,Adidas,12999,S142
+P366,Wings of Fire,Books,Biography,Universities Press,299,S396
+P367,Maybelline Lipstick,Beauty,Makeup,Maybelline,399,S061
+P368,Philips Mixer Grinder,Home,Kitchen,Philips,3499,S081
+P369,Hawkins Cooker 5L,Home,Kitchen,Hawkins,2199,S008
+P370,Harry Potter Boxset,Books,Fiction,Bloomsbury,2499,S264
+P371,OnePlus Nord CE 4,Electronics,Mobiles,OnePlus,24999,S278
+P372,Nilkamal Chair Set,Home,Furniture,Nilkamal,4999,S164
+P373,Philips Mixer Grinder,Home,Kitchen,Philips,3499,S483
+P374,Play Doh Set,Toys,Building,Play-Doh,599,S146
+P375,Ikigai,Books,Self-Help,Penguin,399,S088
+P376,Vivo V30,Electronics,Mobiles,Vivo,33999,S314
+P377,Nilkamal Chair Set,Home,Furniture,Nilkamal,4999,S228
+P378,Samsung Galaxy S23,Electronics,Mobiles,Samsung,64999,S015
+P379,Ponds Powder,Beauty,Makeup,Ponds,249,S346
+P380,Samsung Galaxy S24,Electronics,Mobiles,Samsung,74999,S197
+P381,Apple iPhone 14,Electronics,Mobiles,Apple,69900,S219
+P382,Mamaearth Face Wash,Beauty,Skincare,Mamaearth,249,S361
+P383,Do Epic Shit,Books,Self-Help,Penguin,299,S304
+P384,Melissa Art Set,Toys,Building,Melissa,899,S354
+P385,Nerf Gun Blaster,Toys,Outdoor,Nerf,1999,S316
+P386,Prestige Induction,Home,Kitchen,Prestige,2299,S171
+P387,Kids T-Shirt,Fashion,Kids,H&M,499,S041
+P388,Himalaya Face Pack,Beauty,Skincare,Himalaya,199,S068
+P389,Samsung Refrigerator,Electronics,Appliances,Samsung,32990,S411
+P390,Nerf Gun Blaster,Toys,Outdoor,Nerf,1999,S050
+P391,Dove Shampoo 650ml,Beauty,Haircare,Dove,499,S351
+P392,Hamleys Puzzle 500,Toys,Building,Hamleys,499,S393
+P393,Nivea Soft Cream,Beauty,Skincare,Nivea,299,S119
+P394,US Polo T-Shirt,Fashion,Men,US Polo,999,S441
+P395,Think and Grow Rich,Books,Self-Help,Rupa,249,S468
+P396,Sleepwell Mattress,Home,Furniture,Sleepwell,9999,S094
+P397,Card Game Uno,Toys,Outdoor,Mattel,199,S341
+P398,Philips LED Bulb 9W,Home,Decor,Philips,149,S441
+P399,Godrej Almirah,Home,Furniture,Godrej,18999,S250
+P400,Apple iPhone 14,Electronics,Mobiles,Apple,69900,S244
+P401,MacBook Pro M3,Electronics,Laptops,Apple,169900,S246
+P402,Himalaya Neem Soap,Beauty,Skincare,Himalaya,99,S088
+P403,Philips LED Bulb 9W,Home,Decor,Philips,149,S179
+P404,The Hobbit,Books,Fiction,HarperCollins,449,S066
+P405,Rich Dad Poor Dad,Books,Finance,Penguin,399,S208
+P406,Play Doh Set,Toys,Building,Play-Doh,599,S055
+P407,Nilkamal Chair Set,Home,Furniture,Nilkamal,4999,S333
+P408,LG Refrigerator 260L,Electronics,Appliances,LG,27990,S155
+P409,Sapiens,Books,History,HarperCollins,599,S206
+P410,The Alchemist,Books,Fiction,HarperCollins,349,S123
+P411,Ikigai,Books,Self-Help,Penguin,399,S281
+P412,Womens Jeans,Fashion,Women,Levis,2499,S197
+P413,MacBook Air M2,Electronics,Laptops,Apple,99900,S107
+P414,Rubiks Cube,Toys,Building,Rubiks,399,S221
+P415,Himalaya Face Pack,Beauty,Skincare,Himalaya,199,S404
+P416,Nilkamal Chair Set,Home,Furniture,Nilkamal,4999,S356
+P417,Van Heusen Trouser,Fashion,Men,Van Heusen,1999,S340
+P418,LEGO Technic Car,Toys,Building,LEGO,4999,S379
+P419,Rubiks Cube,Toys,Building,Rubiks,399,S429
+P420,Lakme Sunscreen SPF50,Beauty,Skincare,Lakme,499,S304
+P421,Sapiens,Books,History,HarperCollins,599,S167
+P422,Rich Dad Poor Dad,Books,Finance,Penguin,399,S421
+P423,Mamaearth Face Wash,Beauty,Skincare,Mamaearth,249,S158
+P424,Lakme Sunscreen SPF50,Beauty,Skincare,Lakme,499,S307
+P425,Sony Bravia 55 4K,Electronics,TV,Sony,79990,S417
+P426,The Lean Startup,Books,Business,Crown,549,S420
+P427,Head & Shoulders,Beauty,Haircare,H&S,399,S254
+P428,Hamleys Teddy Bear,Toys,Dolls,Hamleys,799,S032
+P429,OnePlus Nord CE 4,Electronics,Mobiles,OnePlus,24999,S419
+P430,Kids Jeans,Fashion,Kids,Levis,999,S463
+P431,Play Doh Set,Toys,Building,Play-Doh,599,S001
+P432,US Polo T-Shirt,Fashion,Men,US Polo,999,S232
+P433,Think and Grow Rich,Books,Self-Help,Rupa,249,S200
+P434,The Hobbit,Books,Fiction,HarperCollins,449,S229
+P435,FabIndia Kurta Men,Fashion,Men,FabIndia,2499,S349
+P436,Prestige Induction,Home,Kitchen,Prestige,2299,S292
+P437,Hot Wheels Set 5,Toys,Building,Hot Wheels,799,S471
+P438,Lakme Kajal,Beauty,Makeup,Lakme,199,S469
+P439,Hawkins Cooker 5L,Home,Kitchen,Hawkins,2199,S299
+P440,JBL Tune 770NC,Electronics,Audio,JBL,6999,S262
+P441,Himalaya Neem Soap,Beauty,Skincare,Himalaya,99,S066
+P442,Prestige Pressure Cooker,Home,Kitchen,Prestige,2499,S190
+P443,Atomic Habits,Books,Self-Help,Penguin,499,S001
+P444,Remote Control Car,Toys,Outdoor,Funskool,1499,S421
+P445,Hawkins Cooker 5L,Home,Kitchen,Hawkins,2199,S441
+P446,Syska LED Strip,Home,Decor,Syska,599,S016
+P447,Womens Kurti Cotton,Fashion,Women,Libas,899,S360
+P448,The Alchemist,Books,Fiction,HarperCollins,349,S321
+P449,Home Centre Cushion,Home,Decor,Home Centre,499,S196
+P450,Nivea Body Lotion,Beauty,Skincare,Nivea,349,S223
+P451,Ikigai,Books,Self-Help,Penguin,399,S340
+P452,Womens Jeans,Fashion,Women,Levis,2499,S072
+P453,Kids T-Shirt,Fashion,Kids,H&M,499,S197
+P454,Syska LED Strip,Home,Decor,Syska,599,S214
+P455,Adidas Ultraboost,Fashion,Footwear,Adidas,12999,S447
+P456,Barbie Doll Classic,Toys,Dolls,Barbie,999,S069
+P457,Apple iPhone 14,Electronics,Mobiles,Apple,69900,S332
+P458,Samsung Galaxy S23,Electronics,Mobiles,Samsung,64999,S370
+P459,Maybelline Lipstick,Beauty,Makeup,Maybelline,399,S224
+P460,Allen Solly Formal Shirt,Fashion,Men,Allen Solly,1799,S071
+P461,Play Doh Set,Toys,Building,Play-Doh,599,S213
+P462,Ponds Powder,Beauty,Makeup,Ponds,249,S404
+P463,Rubiks Cube,Toys,Building,Rubiks,399,S477
+P464,Himalaya Face Pack,Beauty,Skincare,Himalaya,199,S093
+P465,Loreal Serum,Beauty,Skincare,Loreal,799,S218
+P466,7 Habits,Books,Self-Help,Simon,449,S231
+P467,Head & Shoulders,Beauty,Haircare,H&S,399,S116
+P468,Womens Kurti Cotton,Fashion,Women,Libas,899,S310
+P469,Boat Airdopes 141,Electronics,Audio,Boat,1299,S256
+P470,Barbie Dreamhouse,Toys,Dolls,Barbie,4999,S365
+P471,Think and Grow Rich,Books,Self-Help,Rupa,249,S211
+P472,The Hobbit,Books,Fiction,HarperCollins,449,S188
+P473,Apple iPhone 15 Pro,Electronics,Mobiles,Apple,134900,S291
+P474,Lakme Kajal,Beauty,Makeup,Lakme,199,S189
+P475,Boat Airdopes 141,Electronics,Audio,Boat,1299,S247
+P476,LEGO Technic Car,Toys,Building,LEGO,4999,S073
+P477,Hamleys Puzzle 500,Toys,Building,Hamleys,499,S270
+P478,Godrej Almirah,Home,Furniture,Godrej,18999,S265
+P479,Sony WH-1000XM5,Electronics,Audio,Sony,29990,S456
+P480,Rich Dad Poor Dad,Books,Finance,Penguin,399,S126
+P481,Maybelline Lipstick,Beauty,Makeup,Maybelline,399,S380
+P482,Hamleys Teddy Bear,Toys,Dolls,Hamleys,799,S040
+P483,Hamleys Teddy Bear,Toys,Dolls,Hamleys,799,S277
+P484,Think and Grow Rich,Books,Self-Help,Rupa,249,S314
+P485,Bosch Dishwasher,Electronics,Appliances,Bosch,45990,S176
+P486,The Lean Startup,Books,Business,Crown,549,S006
+P487,Nivea Soft Cream,Beauty,Skincare,Nivea,299,S263
+P488,Himalaya Face Pack,Beauty,Skincare,Himalaya,199,S376
+P489,Sleepwell Mattress,Home,Furniture,Sleepwell,9999,S181
+P490,Prestige Induction,Home,Kitchen,Prestige,2299,S086
+P491,Samsung Crystal 43,Electronics,TV,Samsung,32990,S473
+P492,Deep Work,Books,Self-Help,Grand Central,399,S156
+P493,Play Doh Set,Toys,Building,Play-Doh,599,S289
+P494,Prestige Pressure Cooker,Home,Kitchen,Prestige,2499,S323
+P495,Himalaya Face Pack,Beauty,Skincare,Himalaya,199,S087
+P496,Atomic Habits,Books,Self-Help,Penguin,499,S337
+P497,Philips LED Bulb 9W,Home,Decor,Philips,149,S378
+P498,Atomic Habits,Books,Self-Help,Penguin,499,S147
+P499,Lakme Sunscreen SPF50,Beauty,Skincare,Lakme,499,S065
+P500,Rich Dad Poor Dad,Books,Finance,Penguin,399,S436
